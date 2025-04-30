@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+    "AddonName" "Dota2Sex"
+    "Map" "dota"
+    ...
+}
